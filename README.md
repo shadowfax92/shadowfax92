@@ -12,7 +12,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-6B4FBB?style=flat-square&logo=anthropic&logoColor=white)
 
-> I scratch my own itches and ship the result. If something annoys me enough, it becomes a repo. Neovim zealot. Currently living inside Claude Code and Codex.
+> I like building small tools that make my day easier. Neovim user, mostly writing code through Claude Code and Codex these days.
 
 ## Day Job
 
