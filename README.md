@@ -38,6 +38,8 @@ Small tools I build on nights/weekends to solve my own problems.
 
 Shipped, learned from, moved on.
 
+- 🧠 **[felafax](https://github.com/felafax/felafax)** - AI infra for non-NVIDIA GPUs, the startup before BrowserOS (568★)
+- 🚀 **[felafax-gateway](https://github.com/felafax/felafax-gateway)** - Fast LLM proxy written in Rust
 - 🔎 **[fyin](https://github.com/shadowfax92/Fyin)** - Open source Perplexity AI before Perplexity was cool (227★)
 - 🤖 **[bardgpt](https://github.com/shadowfax92/BardGPT)** - Google Bard in your Mac menubar, back when that was a thing (26★)
 - 🛒 **[flipkart-parser](https://github.com/shadowfax92/Flipkart-Big-Billion-Day-parser)** - Scraped Flipkart sale deals so you didn't have to (15★)
