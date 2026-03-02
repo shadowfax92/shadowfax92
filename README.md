@@ -39,16 +39,16 @@ Shipped, learned from, moved on.
 - 🚀 **[felafax-gateway](https://github.com/felafax/felafax-gateway)** - Fast LLM proxy written in Rust
 - 🔎 **[fyin](https://github.com/shadowfax92/Fyin)** - Open source Perplexity AI before Perplexity was cool (227★)
 - 🤖 **[bardgpt](https://github.com/shadowfax92/BardGPT)** - Google Bard in your Mac menubar, back when that was a thing (26★)
-- 🛒 **[flipkart-parser](https://github.com/shadowfax92/Flipkart-Big-Billion-Day-parser)** - Scraped Flipkart sale deals so you didn't have to (15★)
 - 📌 **[dynalist-bookmarker](https://github.com/shadowfax92/Dynalist-Bookmarker)** - Chrome extension for Dynalist.io bookmarks
-- 🔓 **[captcha-breaker](https://github.com/shadowfax92/Captcha-Breaker)** - Python captcha solver, for science
 
 ## Legacy
 
 <details>
 <summary>The archaeological dig — college and early career</summary>
 
+- 🔓 **[captcha-breaker](https://github.com/shadowfax92/Captcha-Breaker)** - Python captcha solver, for science
 - 🧠 **[mnist-jax](https://github.com/shadowfax92/mnist_jax_test)** - MNIST with JAX, as one does
+- 🛒 **[flipkart-parser](https://github.com/shadowfax92/Flipkart-Big-Billion-Day-parser)** - Scraped Flipkart sale deals so you didn't have to (15★)
 - 💬 **[chat-heads](https://github.com/shadowfax92/chat-heads)** - Android chat heads
 - 🎮 **[tic-tac-toe](https://github.com/shadowfax92/MyTicToc)** - Tic-tac-toe in C++
 - 💰 **[wallet-diary](https://github.com/shadowfax92/WalletDiary)** - Android expense manager
