@@ -2,16 +2,17 @@
 
 📍 **San Francisco** | 🚀 **Building [BrowserOS](https://browseros.com) (YC S24)** | Ex-Meta, Microsoft
 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-6B4FBB?style=flat-square&logo=anthropic&logoColor=white)
 
-> I scratch my own itches and ship the result. If something annoys me enough, it becomes a repo.
+> I scratch my own itches and ship the result. If something annoys me enough, it becomes a repo. Neovim zealot. Currently living inside Claude Code and Codex.
 
 ## Day Job
 
