@@ -78,5 +78,6 @@ Shipped, learned from, moved on.
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@nv__sonti-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nv_sonti)
+[![LinkedIn](https://img.shields.io/badge/-nikhil--sv-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-sv/)
 [![GitHub](https://img.shields.io/badge/-shadowfax92-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shadowfax92)
 [![Website](https://img.shields.io/badge/-browseros.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://browseros.com)
