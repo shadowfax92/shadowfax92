@@ -20,7 +20,7 @@
 
 ## Side Projects
 
-Small tools I build on weekends to solve my own problems.
+Small tools I build on nights/weekends to solve my own problems.
 
 - 📖 **[epub-reader](https://github.com/shadowfax92/epub-reader)** - iOS EPUB reader with AI narration via ElevenLabs
 - ✅ **[tk](https://github.com/shadowfax92/tk)** - Terminal-first task manager backed by markdown files
