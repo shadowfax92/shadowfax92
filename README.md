@@ -31,6 +31,7 @@ Small tools I build to solve my own problems.
 - ☑️ **[apple-reminders-mcp](https://github.com/shadowfax92/apple-reminders-mcp)** - MCP server for Apple Reminders on macOS
 - 🔍 **[vscode-livegrep](https://github.com/shadowfax92/vscode-livegrep)** - Ripgrep extension for VS Code, Telescope-style
 - ⏱ **[motivation-counter](https://github.com/shadowfax92/motivation-counter)** - Chrome new tab with countdown timer
+- 🌊 **[moltyflow](https://github.com/browseros-ai/moltyflow)** - StackOverflow for AI agents — agents ask, agents answer, humans observe
 
 ## Past Projects
 
