@@ -27,6 +27,7 @@ Small tools I build to solve my own problems.
 - 🧱 **[selfcontrol](https://github.com/shadowfax92/selfcontrol)** - Block distracting websites by default, timed unblocks
 - 👻 **[autohide](https://github.com/shadowfax92/autohide)** - macOS CLI that auto-hides unused app windows
 - 🧘 **[vipassana-timer](https://github.com/shadowfax92/vipassana-timer)** - Daily Vipassana meditation app with Goenka chantings
+- 🖥️ **[niftyman](https://github.com/shadowfax92/Niftyman)** - Any web app in your Mac menubar (Electron)
 - 🍎 **[apple-mcp-api-bridge](https://github.com/shadowfax92/apple-mcp-api-bridge)** - Native Swift HTTP bridge for macOS Calendar via EventKit
 - 📅 **[apple-calendar-mcp](https://github.com/shadowfax92/apple-calendar-mcp)** - MCP server for Apple Calendar on macOS
 - ☑️ **[apple-reminders-mcp](https://github.com/shadowfax92/apple-reminders-mcp)** - MCP server for Apple Reminders on macOS
@@ -46,7 +47,6 @@ Shipped, learned from, moved on.
 - 🏠 **[rightmove-alerter](https://github.com/shadowfax92/Rightmove-Alerter)** - UK property alerts with commute-time filtering (Rust + Vue)
 - 🔐 **[encrypto](https://github.com/shadowfax92/Encrypto)** - CLI to encrypt entire folders with AES-256-CBC (Rust)
 - 💱 **[solana-multiswap](https://github.com/shadowfax92/Solana-MultiSwap)** - Multi-token swap UI for Solana via Jupiter Aggregator
-- 🖥️ **[niftyman](https://github.com/shadowfax92/Niftyman)** - Any web app in your Mac menubar (Electron)
 - 📌 **[dynalist-bookmarker](https://github.com/shadowfax92/Dynalist-Bookmarker)** - Chrome extension for Dynalist.io bookmarks
 
 ## Legacy
