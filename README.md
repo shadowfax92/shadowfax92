@@ -27,6 +27,7 @@ Small tools I build to solve my own problems.
 - 🧱 **[selfcontrol](https://github.com/shadowfax92/selfcontrol)** - Block distracting websites by default, timed unblocks
 - 👻 **[autohide](https://github.com/shadowfax92/autohide)** - macOS CLI that auto-hides unused app windows
 - 🧘 **[vipassana-timer](https://github.com/shadowfax92/vipassana-timer)** - Daily Vipassana meditation app with Goenka chantings
+- 🍎 **[apple-mcp-api-bridge](https://github.com/shadowfax92/apple-mcp-api-bridge)** - Native Swift HTTP bridge for macOS Calendar via EventKit
 - 📅 **[apple-calendar-mcp](https://github.com/shadowfax92/apple-calendar-mcp)** - MCP server for Apple Calendar on macOS
 - ☑️ **[apple-reminders-mcp](https://github.com/shadowfax92/apple-reminders-mcp)** - MCP server for Apple Reminders on macOS
 - 🔍 **[vscode-livegrep](https://github.com/shadowfax92/vscode-livegrep)** - Ripgrep extension for VS Code, Telescope-style
@@ -41,6 +42,10 @@ Shipped, learned from, moved on.
 - 🚀 **[felafax-gateway](https://github.com/felafax/felafax-gateway)** - Fast LLM proxy written in Rust
 - 🔎 **[fyin](https://github.com/shadowfax92/Fyin)** - Open source Perplexity AI before Perplexity was cool (227★)
 - 🤖 **[bardgpt](https://github.com/shadowfax92/BardGPT)** - Google Bard in your Mac menubar, back when that was a thing (26★)
+- 🔄 **[torch-to-jax](https://github.com/shadowfax92/torch-to-jax)** - LLM-powered PyTorch to JAX/Equinox code converter
+- 🏠 **[rightmove-alerter](https://github.com/shadowfax92/Rightmove-Alerter)** - UK property alerts with commute-time filtering (Rust + Vue)
+- 🔐 **[encrypto](https://github.com/shadowfax92/Encrypto)** - CLI to encrypt entire folders with AES-256-CBC (Rust)
+- 💱 **[solana-multiswap](https://github.com/shadowfax92/Solana-MultiSwap)** - Multi-token swap UI for Solana via Jupiter Aggregator
 - 📌 **[dynalist-bookmarker](https://github.com/shadowfax92/Dynalist-Bookmarker)** - Chrome extension for Dynalist.io bookmarks
 
 ## Legacy
