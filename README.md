@@ -22,6 +22,7 @@ Small tools I build to solve my own problems.
 - 📖 **[epub-reader](https://github.com/shadowfax92/epub-reader)** - iOS EPUB reader with AI narration via ElevenLabs
 - ✅ **[tk](https://github.com/shadowfax92/tk)** - Terminal-first task manager backed by markdown files
 - 🌳 **[grove](https://github.com/shadowfax92/grove)** - Tmux workspaces powered by git worktrees
+- 🪟 **[layouts](https://github.com/shadowfax92/layouts)** - Tmux layout manager — predefined pane arrangements from YAML config
 - 🔔 **[mac-notify](https://github.com/shadowfax92/mac-notify)** - macOS menu bar notification queue
 - 🧱 **[selfcontrol](https://github.com/shadowfax92/selfcontrol)** - Block distracting websites by default, timed unblocks
 - 👻 **[autohide](https://github.com/shadowfax92/autohide)** - macOS CLI that auto-hides unused app windows
