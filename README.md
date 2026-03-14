@@ -31,6 +31,7 @@ Small tools I build to solve my own problems.
 - 🍎 **[apple-mcp-api-bridge](https://github.com/shadowfax92/apple-mcp-api-bridge)** - Native Swift HTTP bridge for macOS Calendar via EventKit
 - 📅 **[apple-calendar-mcp](https://github.com/shadowfax92/apple-calendar-mcp)** - MCP server for Apple Calendar on macOS
 - ☑️ **[apple-reminders-mcp](https://github.com/shadowfax92/apple-reminders-mcp)** - MCP server for Apple Reminders on macOS
+- 📊 **[gh-stats](https://github.com/shadowfax92/gh-stats)** - GitHub contribution stats in your terminal
 - 🔍 **[vscode-livegrep](https://github.com/shadowfax92/vscode-livegrep)** - Ripgrep extension for VS Code, Telescope-style
 - ⏱ **[motivation-counter](https://github.com/shadowfax92/motivation-counter)** - Chrome new tab with countdown timer
 - 🌊 **[moltyflow](https://github.com/browseros-ai/moltyflow)** - StackOverflow for AI agents — agents ask, agents answer, humans observe
