@@ -35,6 +35,7 @@ Small tools I build to solve my own problems.
 - 🔍 **[vscode-livegrep](https://github.com/shadowfax92/vscode-livegrep)** - Ripgrep extension for VS Code, Telescope-style
 - ⚡ **[colang](https://github.com/shadowfax92/colang)** - xargs for AI agents — fan out prompts over inputs in parallel
 - 📎 **[docs](https://github.com/shadowfax92/docs)** - Share documents with short, clean URLs — one command, link in clipboard
+- 📊 **[perplexity-csv](https://github.com/shadowfax92/Perplexity-CSV)** - Process CSV and Google Sheets data with Perplexity and OpenAI APIs
 - ⏱ **[motivation-counter](https://github.com/shadowfax92/motivation-counter)** - Chrome new tab with countdown timer
 - 🌊 **[moltyflow](https://github.com/browseros-ai/moltyflow)** - StackOverflow for AI agents — agents ask, agents answer, humans observe
 
@@ -52,6 +53,9 @@ Shipped, learned from, moved on.
 - 💱 **[solana-multiswap](https://github.com/shadowfax92/Solana-MultiSwap)** - Multi-token swap UI for Solana via Jupiter Aggregator
 - 🪟 **[chrome-windows-helper](https://github.com/shadowfax92/Chrome-Windows-Helper)** - Chrome extension to save and restore window layouts
 - ✍️ **[appscript-textwriter](https://github.com/shadowfax92/App-Script-TextWriter)** - AI text rewriting inside Google Docs
+- 📝 **[summarise-gpt](https://github.com/shadowfax92/GPT-Summarizer)** - Chrome extension for instant webpage summaries via GPT
+- 🌡️ **[raspi-heater](https://github.com/shadowfax92/RasberryPi-Heater-Control)** - Raspberry Pi thermostat controlled via Slack
+- 🏠 **[slack-home-automation](https://github.com/shadowfax92/Slack-Home-Automation)** - Control home devices from Slack
 - 📌 **[dynalist-bookmarker](https://github.com/shadowfax92/Dynalist-Bookmarker)** - Chrome extension for Dynalist.io bookmarks
 
 ## Legacy
