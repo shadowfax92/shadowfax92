@@ -33,6 +33,8 @@ Small tools I build to solve my own problems.
 - ☑️ **[apple-reminders-mcp](https://github.com/shadowfax92/apple-reminders-mcp)** - MCP server for Apple Reminders on macOS
 - 📊 **[gh-stats](https://github.com/shadowfax92/gh-stats)** - GitHub contribution stats in your terminal
 - 🔍 **[vscode-livegrep](https://github.com/shadowfax92/vscode-livegrep)** - Ripgrep extension for VS Code, Telescope-style
+- ⚡ **[colang](https://github.com/shadowfax92/colang)** - xargs for AI agents — fan out prompts over inputs in parallel
+- 📎 **[docs](https://github.com/shadowfax92/docs)** - Share documents with short, clean URLs — one command, link in clipboard
 - ⏱ **[motivation-counter](https://github.com/shadowfax92/motivation-counter)** - Chrome new tab with countdown timer
 - 🌊 **[moltyflow](https://github.com/browseros-ai/moltyflow)** - StackOverflow for AI agents — agents ask, agents answer, humans observe
 
