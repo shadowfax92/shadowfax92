@@ -50,6 +50,9 @@ Shipped, learned from, moved on.
 - 🏠 **[rightmove-alerter](https://github.com/shadowfax92/Rightmove-Alerter)** - UK property alerts with commute-time filtering (Rust + Vue)
 - 🔐 **[encrypto](https://github.com/shadowfax92/Encrypto)** - CLI to encrypt entire folders with AES-256-CBC (Rust)
 - 💱 **[solana-multiswap](https://github.com/shadowfax92/Solana-MultiSwap)** - Multi-token swap UI for Solana via Jupiter Aggregator
+- 🪟 **[chrome-windows-helper](https://github.com/shadowfax92/Chrome-Windows-Helper)** - Chrome extension to save and restore window layouts
+- ✍️ **[appscript-textwriter](https://github.com/shadowfax92/App-Script-TextWriter)** - AI text rewriting inside Google Docs
+- 📚 **[instabooksummary](https://github.com/shadowfax92/InstaBookSummary-Tool)** - Summarize books from PDF and auto-publish to WordPress
 - 📌 **[dynalist-bookmarker](https://github.com/shadowfax92/Dynalist-Bookmarker)** - Chrome extension for Dynalist.io bookmarks
 
 ## Legacy
