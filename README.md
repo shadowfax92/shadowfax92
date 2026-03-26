@@ -19,6 +19,7 @@
 
 Small tools I build to solve my own problems.
 
+- 📂 **[recent-files](https://github.com/shadowfax92/recent-files)** - Cross-session recent file tracker for Neovim
 - 📖 **[epub-reader](https://github.com/shadowfax92/epub-reader)** - iOS EPUB reader with AI narration via ElevenLabs
 - ✅ **[tk](https://github.com/shadowfax92/tk)** - Terminal-first task manager backed by markdown files
 - 🌳 **[grove](https://github.com/shadowfax92/grove)** - Tmux workspaces powered by git worktrees
