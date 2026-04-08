@@ -19,6 +19,7 @@
 
 Small tools I build to solve my own problems.
 
+- 📎 **[tmcmt](https://github.com/shadowfax92/tmcmt)** - Comment on tmux pane output and feed it back to the agent
 - 📂 **[recent-files](https://github.com/shadowfax92/recent-files)** - Cross-session recent file tracker for Neovim
 - 📖 **[epub-reader](https://github.com/shadowfax92/epub-reader)** - iOS EPUB reader with AI narration via ElevenLabs
 - ✅ **[tk](https://github.com/shadowfax92/tk)** - Terminal-first task manager backed by markdown files
@@ -32,6 +33,7 @@ Small tools I build to solve my own problems.
 - 🍎 **[apple-mcp-api-bridge](https://github.com/shadowfax92/apple-mcp-api-bridge)** - Native Swift HTTP bridge for macOS Calendar via EventKit
 - 📅 **[apple-calendar-mcp](https://github.com/shadowfax92/apple-calendar-mcp)** - MCP server for Apple Calendar on macOS
 - ☑️ **[apple-reminders-mcp](https://github.com/shadowfax92/apple-reminders-mcp)** - MCP server for Apple Reminders on macOS
+- ✨ **[gloss](https://github.com/shadowfax92/gloss)** - Browser markdown viewer with one-click highlight-to-clipboard for AI agents
 - 📊 **[gh-stats](https://github.com/shadowfax92/gh-stats)** - GitHub contribution stats in your terminal
 - 🔍 **[vscode-livegrep](https://github.com/shadowfax92/vscode-livegrep)** - Ripgrep extension for VS Code, Telescope-style
 - ⚡ **[colang](https://github.com/shadowfax92/colang)** - xargs for AI agents — fan out prompts over inputs in parallel
