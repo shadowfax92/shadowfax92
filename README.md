@@ -13,7 +13,7 @@
 
 ## Day Job
 
-🌐 **[BrowserOS](https://github.com/browseros-ai/BrowserOS)** — An open-source Chromium fork that runs AI agents natively. 9.5k★
+🌐 **[BrowserOS](https://github.com/browseros-ai/BrowserOS)** — An open-source Chromium fork that runs AI agents natively. 10.4k★
 
 ## Side Projects
 
