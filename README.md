@@ -19,6 +19,9 @@
 
 Small tools I build to solve my own problems.
 
+- 🎒 **[skl](https://github.com/shadowfax92/skl)** - Loadout manager for Claude Code skills — bundle, load, share
+- 🧠 **[llm](https://github.com/shadowfax92/llm)** - Persistent `.llm` directories that survive git worktrees
+- 🐝 **[hive](https://github.com/shadowfax92/hive)** - Orchestrate AI coding agents through phased development pipelines
 - 📎 **[tmcmt](https://github.com/shadowfax92/tmcmt)** - Comment on tmux pane output and feed it back to the agent
 - 📂 **[recent-files](https://github.com/shadowfax92/recent-files)** - Cross-session recent file tracker for Neovim
 - 📖 **[epub-reader](https://github.com/shadowfax92/epub-reader)** - iOS EPUB reader with AI narration via ElevenLabs
