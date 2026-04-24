@@ -22,7 +22,7 @@ Small tools I build to solve my own problems.
 - 🎒 **[skl](https://github.com/shadowfax92/skl)** - Loadout manager for Claude Code skills — bundle, load, share
 - 🧠 **[llm](https://github.com/shadowfax92/llm)** - Persistent `.llm` directories that survive git worktrees
 - 📎 **[tmcmt](https://github.com/shadowfax92/tmcmt)** - Comment on tmux pane output and feed it back to the agent
-- 🔧 **[sidekick.nvim](https://github.com/shadowfax92/sidekick.nvim/tree/upstream)** - Small fork of [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) adding tmux multicast, auto-attach, and a send-with-comment popup
+- 🔧 **[sidekick.nvim](https://github.com/shadowfax92/sidekick.nvim)** - Small fork of [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) adding tmux multicast, auto-attach, and a send-with-comment popup
 - 📂 **[recent-files](https://github.com/shadowfax92/recent-files)** - Cross-session recent file tracker for Neovim
 - 📖 **[epub-reader](https://github.com/shadowfax92/epub-reader)** - iOS EPUB reader with AI narration via ElevenLabs
 - ✅ **[tk](https://github.com/shadowfax92/tk)** - Terminal-first task manager backed by markdown files
