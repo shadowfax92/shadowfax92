@@ -38,6 +38,7 @@ Small tools I build to solve my own problems.
 - ☑️ **[apple-reminders-mcp](https://github.com/shadowfax92/apple-reminders-mcp)** - MCP server for Apple Reminders on macOS
 - ✨ **[gloss](https://github.com/shadowfax92/gloss)** - Browser markdown viewer with one-click highlight-to-clipboard for AI agents
 - 📊 **[gh-stats](https://github.com/shadowfax92/gh-stats)** - GitHub contribution stats in your terminal
+- 🪙 **[tokens](https://github.com/shadowfax92/tokens)** - Terminal dashboard for Claude Code and Codex token spend, trends, and growth
 - 🔍 **[vscode-livegrep](https://github.com/shadowfax92/vscode-livegrep)** - Ripgrep extension for VS Code, Telescope-style
 - ⚡ **[colang](https://github.com/shadowfax92/colang)** - xargs for AI agents — fan out prompts over inputs in parallel
 - 📎 **[docs](https://github.com/shadowfax92/docs)** - Share documents with short, clean URLs — one command, link in clipboard
