@@ -24,6 +24,7 @@ Small tools I build to solve my own problems.
 - 📎 **[tmcmt](https://github.com/shadowfax92/tmcmt)** - Comment on tmux pane output and feed it back to the agent
 - 🔧 **[sidekick.nvim](https://github.com/shadowfax92/sidekick.nvim)** - Small fork of [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) adding tmux multicast, auto-attach, and a send-with-comment popup
 - 📂 **[recent-files](https://github.com/shadowfax92/recent-files)** - Cross-session recent file tracker for Neovim
+- 🎯 **[markdown-focus.nvim](https://github.com/shadowfax92/markdown-focus.nvim)** - Neovim plugin to zoom into a Markdown heading or bullet subtree, edit in isolation, write back safely
 - 📖 **[epub-reader](https://github.com/shadowfax92/epub-reader)** - iOS EPUB reader with AI narration via ElevenLabs
 - ✅ **[tk](https://github.com/shadowfax92/tk)** - Terminal-first task manager backed by markdown files
 - 🌳 **[grove](https://github.com/shadowfax92/grove)** - Tmux workspaces powered by git worktrees
