@@ -33,6 +33,7 @@ Small tools I build to solve my own problems.
 - 🔔 **[mac-notify](https://github.com/shadowfax92/mac-notify)** - macOS menu bar notification queue
 - 🧱 **[selfcontrol](https://github.com/shadowfax92/selfcontrol)** - Block distracting websites by default, timed unblocks
 - 👻 **[autohide](https://github.com/shadowfax92/autohide)** - macOS CLI that auto-hides unused app windows
+- 🐷 **[hog](https://github.com/shadowfax92/hog)** - Rank Mac apps by CPU/memory usage, then kill the whole hog group
 - 🧘 **[vipassana-timer](https://github.com/shadowfax92/vipassana-timer)** - Daily Vipassana meditation app with Goenka chantings
 - 🖥️ **[niftyman](https://github.com/shadowfax92/Niftyman)** - Any web app in your Mac menubar (Electron)
 - 🍎 **[apple-mcp-api-bridge](https://github.com/shadowfax92/apple-mcp-api-bridge)** - Native Swift HTTP bridge for macOS Calendar via EventKit
