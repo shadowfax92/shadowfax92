@@ -32,6 +32,7 @@ Small tools I build to solve my own problems.
 - 🌳 **[grove](https://github.com/shadowfax92/grove)** - Tmux workspaces powered by git worktrees
 - 🧭 **[tmx](https://github.com/shadowfax92/tmx)** - Tmux navigation — session tree, fuzzy window/pane jump, and scratch popups
 - 🪟 **[layouts](https://github.com/shadowfax92/layouts)** - Tmux layout manager — predefined pane arrangements from YAML config
+- 🎛️ **[wrapux](https://github.com/shadowfax92/wrapux)** - `rmx` CLI — fzf-powered wrapper for rmux sessions (list, attach, capture, remove)
 - 🔔 **[mac-notify](https://github.com/shadowfax92/mac-notify)** - macOS menu bar notification queue
 - 🧱 **[selfcontrol](https://github.com/shadowfax92/selfcontrol)** - Block distracting websites by default, timed unblocks
 - 👻 **[autohide](https://github.com/shadowfax92/autohide)** - macOS CLI that auto-hides unused app windows
