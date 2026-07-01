@@ -21,6 +21,7 @@ Small tools I build to solve my own problems.
 
 - 🎸 **[riff](https://github.com/shadowfax92/riff)** - macOS app that pits AI CLIs (Claude Code, Codex) against each other in a multi-agent debate
 - 🪄 **[sable](https://github.com/shadowfax92/sable)** - macOS app that rewrites selected text via Claude or Codex with a popup shortcut
+- ➕ **[tpp](https://github.com/shadowfax92/tpp)** - tmux++ — ergonomic tmux wrapper for humans and agents: directory-scoped sessions, run/capture/paste, drop-in for rmux
 - 🎒 **[skl](https://github.com/shadowfax92/skl)** - Loadout manager for Claude Code skills — bundle, load, share
 - 🧠 **[llm](https://github.com/shadowfax92/llm)** - Persistent `.llm` directories that survive git worktrees
 - 📎 **[tmcmt](https://github.com/shadowfax92/tmcmt)** - Comment on tmux pane output and feed it back to the agent
@@ -28,7 +29,7 @@ Small tools I build to solve my own problems.
 - 📂 **[recent-files](https://github.com/shadowfax92/recent-files)** - Cross-session recent file tracker for Neovim
 - 🎯 **[markdown-focus.nvim](https://github.com/shadowfax92/markdown-focus.nvim)** - Neovim plugin to zoom into a Markdown heading or bullet subtree, edit in isolation, write back safely
 - 📖 **[epub-reader](https://github.com/shadowfax92/epub-reader)** - iOS EPUB reader with AI narration via ElevenLabs
-- ✅ **[tk](https://github.com/shadowfax92/tk)** - Terminal-first task manager backed by markdown files
+- 🗂️ **[tk2](https://github.com/shadowfax92/tk2)** - Terminal-first task manager where the filesystem is the database — folders are categories, tasks are markdown files
 - 🌳 **[grove](https://github.com/shadowfax92/grove)** - Tmux workspaces powered by git worktrees
 - 🧭 **[tmx](https://github.com/shadowfax92/tmx)** - Tmux navigation — session tree, fuzzy window/pane jump, and scratch popups
 - 🪟 **[layouts](https://github.com/shadowfax92/layouts)** - Tmux layout manager — predefined pane arrangements from YAML config
@@ -57,6 +58,7 @@ Small tools I build to solve my own problems.
 Shipped, learned from, moved on.
 
 - 🐝 **[hive](https://github.com/shadowfax92/hive)** - Orchestrate AI coding agents through phased development pipelines
+- ✅ **[tk](https://github.com/shadowfax92/tk)** - Terminal-first task manager backed by markdown files (superseded by tk2)
 - 🧠 **[felafax](https://github.com/felafax/felafax)** - AI infra for non-NVIDIA GPUs, the startup before BrowserOS (568★)
 - 🚀 **[felafax-gateway](https://github.com/felafax/felafax-gateway)** - Fast LLM proxy written in Rust
 - 🔎 **[fyin](https://github.com/shadowfax92/Fyin)** - Open source Perplexity AI before Perplexity was cool (227★)
