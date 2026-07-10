@@ -22,6 +22,7 @@ Small tools I build to solve my own problems.
 - 🎸 **[riff](https://github.com/shadowfax92/riff)** - macOS app that pits AI CLIs (Claude Code, Codex) against each other in a multi-agent debate
 - 🪄 **[sable](https://github.com/shadowfax92/sable)** - macOS app that rewrites selected text via Claude or Codex with a popup shortcut
 - ➕ **[tpp](https://github.com/shadowfax92/tpp)** - tmux++ — ergonomic tmux wrapper for humans and agents: directory-scoped sessions, run/capture/paste, drop-in for rmux
+- 🔀 **[rtr](https://github.com/shadowfax92/rtr)** - Profile launcher for Claude Code and Codex — isolated homes per account, rotate across subscriptions
 - 🎒 **[skl](https://github.com/shadowfax92/skl)** - Loadout manager for Claude Code skills — bundle, load, share
 - 🧠 **[llm](https://github.com/shadowfax92/llm)** - Persistent `.llm` directories that survive git worktrees
 - 📎 **[tmcmt](https://github.com/shadowfax92/tmcmt)** - Comment on tmux pane output and feed it back to the agent
